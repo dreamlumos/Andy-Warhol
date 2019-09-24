@@ -81,3 +81,45 @@ body {
 	background-color: orange;
 
 }
+
+#box4 {
+
+	color: LemonChiffon;
+	background-color: green;
+
+}
+
+#box4:hover {
+
+	color: green;
+	background-color: LemonChiffon;
+
+}
+
+#box5 {
+
+	color: white;
+	background-color: Khaki;
+
+}
+
+#box5:hover {
+
+	color: Khaki;
+	background-color: white;
+
+}
+
+#box6 {
+
+	color: MediumVioletRed;
+	background-color: OrangeRed;
+
+}
+
+#box6:hover {
+
+	color: OrangeRed;
+	background-color: MediumVioletRed;
+
+}
