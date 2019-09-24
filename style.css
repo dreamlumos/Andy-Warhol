@@ -1,0 +1,52 @@
+body {
+
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	background-color: #211f1a;
+
+}
+
+
+.grandDiv { /* Grand carré qui contient les 9 petits carrés */
+
+	height: 90%;
+	padding-top: 90%;
+
+}
+
+.row { /* Chaque ligne contient 3 petits carrés */
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+
+	height: 33.33%;
+
+}
+
+
+.box { /* Tous les petits carrés */
+
+	width: 33.33%;
+	padding-top: 33.33%;
+
+	margin: auto;
+
+}
+
+#box1 {
+
+	color: blue;
+	background-color: red;
+
+}
+
+#box1:hover {
+
+	color: red;
+	background-color: blue;
+
+}
+
