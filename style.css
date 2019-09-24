@@ -23,7 +23,7 @@ body {
 	align-items: center;
 
 	width: ;
-	
+
 	box-sizing: border-box;
 
 }
@@ -79,5 +79,50 @@ body {
 
 	color: pink;
 	background-color: orange;
+
+}
+
+
+#box7 {
+
+	color: green;
+	background-color: pink;
+
+}
+
+#box7:hover {
+
+	color: pink;
+	background-color: green;
+
+}
+
+
+#box8 {
+
+	color: pink;
+	background-color: blue;
+
+}
+
+#box8:hover {
+
+	color: blue;
+	background-color: pink;
+
+}
+
+
+#box9 {
+
+	color: green;
+	background-color: orange;
+
+}
+
+#box9:hover {
+
+	color: orange;
+	background-color: green;
 
 }
